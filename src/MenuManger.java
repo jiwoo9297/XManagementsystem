@@ -2,10 +2,10 @@
 public class MenuManger {
 
 	public static void main(String[] args) {
-		System.out.println("1.Normal memebers");
-		System.out.println("2.VIP members ");
-		System.out.println("3.VVIP members");
-		System.out.println("4.Black List ");
+		System.out.println("1.Add Members");
+		System.out.println("2.Delete Members ");
+		System.out.println("3.Edit Members");
+		System.out.println("4.View Members);
 		System.out.println("5.EXIT");
 	}
 
